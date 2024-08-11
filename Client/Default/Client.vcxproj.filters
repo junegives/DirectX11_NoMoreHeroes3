@@ -1,0 +1,948 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00. MainApp">
+      <UniqueIdentifier>{7bf08399-1c08-4666-ac15-380e0cd2ff19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Default">
+      <UniqueIdentifier>{88618d49-4d83-4a2b-ba3d-7765593d0a1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Defines">
+      <UniqueIdentifier>{3db34b9c-c053-4667-bf73-86e22f206bca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels">
+      <UniqueIdentifier>{cb535bae-d8c3-4355-98c2-5d765ac387ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\GamePlay">
+      <UniqueIdentifier>{5d08cb75-57e1-4953-a3ca-2a45954a8605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\Logo">
+      <UniqueIdentifier>{bdd4c130-d323-4ee5-a9cd-74ff3c727f32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\Loading">
+      <UniqueIdentifier>{599be9ed-c421-4244-a9cf-8974f0a68c17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\Loading\Loader">
+      <UniqueIdentifier>{e9b8f085-6021-4608-a51d-41e44b3f11c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects">
+      <UniqueIdentifier>{39d6b422-0a1d-4529-88b8-513fc5c22dfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\BackGround">
+      <UniqueIdentifier>{b2257807-9bb2-4241-9885-2c4a71c9b538}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. ShaderFiles">
+      <UniqueIdentifier>{77bba8cc-473c-48fb-b31d-8cc58a9b9ad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Terrain">
+      <UniqueIdentifier>{8e5997a5-3876-453f-b1f7-ac2d1be87b8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Camera">
+      <UniqueIdentifier>{695d5e1d-9a8f-4ff3-b33b-843639e92ab7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Camera\Camera_Free">
+      <UniqueIdentifier>{f1fcaa78-0e6d-435b-91aa-878c29ac3ddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\StaticObject">
+      <UniqueIdentifier>{725bf414-ec97-4b5e-8c6c-ac78d382616d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject">
+      <UniqueIdentifier>{6485f8e2-3f25-4008-b591-31e8f40f640c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player">
+      <UniqueIdentifier>{672afb30-7f64-4258-be69-e2a8fde95b3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster">
+      <UniqueIdentifier>{17e93fc0-acbf-428e-8e6a-54b01af6cd98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\Boss">
+      <UniqueIdentifier>{3fb1394f-49be-4d5c-958d-d589ff9c73d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\PartObject">
+      <UniqueIdentifier>{ccc3f9ef-a22a-4a98-8aa9-870fcdfb2c91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\PartObject\Body_Player">
+      <UniqueIdentifier>{1a70da4a-cd6e-4ac6-bd4a-a4305c197d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\PartObject\Weapon">
+      <UniqueIdentifier>{e3de1379-37f4-49bd-832b-2a59ee407527}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Sky">
+      <UniqueIdentifier>{6cfd1230-4846-4278-af62-7dd4022a3720}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\State">
+      <UniqueIdentifier>{b7d6dc0f-8cb8-4a63-8fd4-e1422c94a73a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\State\Done">
+      <UniqueIdentifier>{a8852f28-53cc-44f1-b7a2-70cabd17f182}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\TriplePut">
+      <UniqueIdentifier>{713afa3c-bf62-48e5-882f-7644a6951add}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\TriplePut\State">
+      <UniqueIdentifier>{4681469d-4339-4c24-b440-9f845e564aa3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\Leopardon">
+      <UniqueIdentifier>{2aa4c907-f710-4bb2-a7fb-48aa1c156a6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\Leopardon\State">
+      <UniqueIdentifier>{cf15e418-ad9c-4f08-bb46-56520c5efa47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Projectile">
+      <UniqueIdentifier>{55b087f7-65b0-4107-9038-bfd301eef84e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\Leopardon\PartObject">
+      <UniqueIdentifier>{2386a3e1-d7c7-4341-96ea-99dfa9a6d0a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\Village">
+      <UniqueIdentifier>{119e3de5-fd6d-4286-9367-89e090044338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\State\Vehicle">
+      <UniqueIdentifier>{228bb3a5-f62f-4d35-ba12-e9685105419a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\Bone">
+      <UniqueIdentifier>{01ec4bd4-a99c-4a36-9a23-cae5d5c7dd44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\Bone\PartObject">
+      <UniqueIdentifier>{c2dcab5f-7895-426d-ae73-b73205519189}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Monster\Bone\State">
+      <UniqueIdentifier>{c023fb8a-b52c-4477-acac-67f4a96fe655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\PartObject\Bike">
+      <UniqueIdentifier>{285adb5e-cbdd-454f-979b-23cafb338ee9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\Player\PartObject\Bike\State">
+      <UniqueIdentifier>{a96ca761-3fc5-4066-9826-32e5408e66d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect">
+      <UniqueIdentifier>{7d7c4914-00f7-480c-b718-0dbcb1393822}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Particle">
+      <UniqueIdentifier>{3a558deb-9afb-4301-b967-fb16239b9479}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Particle\Rect">
+      <UniqueIdentifier>{448474f1-422a-4a1a-87ae-a2eeeff2eb69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Particle\Point">
+      <UniqueIdentifier>{c5bd0ea6-3cc8-46b4-b380-ab2acff3ba18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Trigger">
+      <UniqueIdentifier>{697e4345-4c6a-419e-b18f-07657917e6ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\StaticObject\MeshMap">
+      <UniqueIdentifier>{e5f0474f-2bee-4192-ac46-4dd1432297f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\StaticObject\Trigger">
+      <UniqueIdentifier>{6a869823-53f7-4e05-9752-e4e5969c5300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\LandObject\NPC">
+      <UniqueIdentifier>{94a2f3a0-d626-4ff5-b94a-ba15152b70a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\UI">
+      <UniqueIdentifier>{7eda3124-dde3-4e74-89d7-69b8fe349f1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\UI\Manager">
+      <UniqueIdentifier>{4c1dcc53-0ff1-4bd6-a7ab-0ff01b57a645}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\StaticObject\Sign">
+      <UniqueIdentifier>{e879440d-e682-421f-bc23-b87972b8240d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\StaticObject\Coin">
+      <UniqueIdentifier>{09701308-5371-48f4-ae1a-312313e5d694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Camera\Manager">
+      <UniqueIdentifier>{f48bd437-58dd-49e2-84db-1cb83ff0171b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Camera\Camera_Attach">
+      <UniqueIdentifier>{463368b7-2ed7-4118-85bd-d428f02ba1a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Camera\Camera_Event">
+      <UniqueIdentifier>{0b78695a-18e2-43fa-ae7c-3c31ae684785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Particle\Attack">
+      <UniqueIdentifier>{54ddd67a-83e3-48b8-b871-cd59d595e5cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Manager">
+      <UniqueIdentifier>{d0357492-1abb-43f1-b921-ca84d95f0d7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Trail">
+      <UniqueIdentifier>{e4f75eb2-8700-4d1a-8477-9b4440bf140e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Trail\SwordTrail">
+      <UniqueIdentifier>{37df55b8-c50d-42b5-82ff-356a85338aab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Trail\MotionTrail">
+      <UniqueIdentifier>{1b9d0dad-cac8-4d63-8111-a42a76a7dd27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Trail\MeshTrail">
+      <UniqueIdentifier>{db834e48-912f-4fd8-bc19-88ac864c0444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Texture">
+      <UniqueIdentifier>{ea27b5e9-969c-4e70-9f63-0659d7ad7332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Texture\Slash">
+      <UniqueIdentifier>{31f33b49-c9da-464d-b790-dea4a46ecf05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Trail\RushTrail">
+      <UniqueIdentifier>{e67d0560-d74d-42a7-b78a-83121860542b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Sound">
+      <UniqueIdentifier>{5b17dba1-fd36-4e41-9636-d37cdb31f386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Sound\Manager">
+      <UniqueIdentifier>{78d225e0-e3f8-408b-9972-4690272da7e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObjects\Effect\Mesh">
+      <UniqueIdentifier>{d773f935-36c9-4bf5-b92a-8d4fd18895f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Client_Defines.h">
+      <Filter>99. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainApp.h">
+      <Filter>00. MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Loading.h">
+      <Filter>01. Levels\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Loader.h">
+      <Filter>01. Levels\Loading\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Logo.h">
+      <Filter>01. Levels\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_GamePlay.h">
+      <Filter>01. Levels\GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\BackGround.h">
+      <Filter>02. GameObjects\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Terrain.h">
+      <Filter>02. GameObjects\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Camera_Free.h">
+      <Filter>02. GameObjects\Camera\Camera_Free</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Player.h">
+      <Filter>02. GameObjects\LandObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Monster.h">
+      <Filter>02. GameObjects\LandObject\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\StaticObject.h">
+      <Filter>02. GameObjects\StaticObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Boss.h">
+      <Filter>02. GameObjects\LandObject\Monster\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LandObject.h">
+      <Filter>02. GameObjects\LandObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PartObject.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Body_Player.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Body_Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Weapon.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Camera_Attach.h">
+      <Filter>02. GameObjects\Camera\Camera_Attach</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Sky.h">
+      <Filter>02. GameObjects\Sky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_FallDown.h">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Transform.h">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Attack.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_DeathKick.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Dodge.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_IDLE.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Jump.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_KillerSlash.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Run.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_HeavyAttack.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_DashAttack.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_PerfectDodge.h">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Armor_Missile.h">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Monster_TriplePut.h">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Guard.h">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Hit.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TriplePut_Invisible.h">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TriplePut_Idle.h">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TriplePut_Walk.h">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TriplePut_Rush.h">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TriplePut_Spin.h">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Monster_Leopardon.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_Idle.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_Occurrence.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LandObject_Leopardon_Teleport.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_SquareWall.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Projectile_Leopardon_Cube.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Projectile.h">
+      <Filter>02. GameObjects\Projectile</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_Warp.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_LaserBeam.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_BeamSword.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Projectile_Leopardon_Ring.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Weapon_Leopardon.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\PartObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_Hit.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_TriplePut_Hit.h">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Throw.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Leopardon_Ring.h">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Village.h">
+      <Filter>01. Levels\Village</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Vehicle_Idle.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Vehicle_Run.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Vehicle_Turn.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Vehicle_Back.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Vehicle_Call.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Monster_Bone.h">
+      <Filter>02. GameObjects\LandObject\Monster\Bone</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Weapon_Bone.h">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\PartObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bone_Idle.h">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bone_Attack.h">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bone_Hit.h">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bone_Walk.h">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Bike.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_Idle.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_Rect.h">
+      <Filter>02. GameObjects\Effect\Particle\Rect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_Point.h">
+      <Filter>02. GameObjects\Effect\Particle\Point</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_Run.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_Nitro.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_Turn.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MeshMap.h">
+      <Filter>02. GameObjects\StaticObject\MeshMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Trigger.h">
+      <Filter>02. GameObjects\StaticObject\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\NPC.h">
+      <Filter>02. GameObjects\LandObject\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Rising.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Appear.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Manager.h">
+      <Filter>02. GameObjects\UI\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_QuestBoard.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_Sit.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Sign.h">
+      <Filter>02. GameObjects\StaticObject\Sign</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Coin.h">
+      <Filter>02. GameObjects\StaticObject\Coin</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_MiniGame_Idle.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_MiniGame_Run.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Bike_MiniGame_Avoid.h">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\State_Vehicle_Jump.h">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Camera_Manager.h">
+      <Filter>02. GameObjects\Camera\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Camera_Event.h">
+      <Filter>02. GameObjects\Camera\Camera_Event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Teleport.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Coin.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_HP_Player.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_HP_Monster.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Target.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle.h">
+      <Filter>02. GameObjects\Effect\Particle\Attack</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Manager.h">
+      <Filter>02. GameObjects\Effect\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Trail.h">
+      <Filter>02. GameObjects\Effect\Trail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect.h">
+      <Filter>02. GameObjects\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\SwordTrail.h">
+      <Filter>02. GameObjects\Effect\Trail\SwordTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MotionTrail.h">
+      <Filter>02. GameObjects\Effect\Trail\MotionTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MeshTrail.h">
+      <Filter>02. GameObjects\Effect\Trail\MeshTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Slash.h">
+      <Filter>02. GameObjects\Effect\Texture\Slash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RushTrail.h">
+      <Filter>02. GameObjects\Effect\Trail\RushTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Sound_Manager.h">
+      <Filter>02. GameObjects\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Pillar.h">
+      <Filter>02. GameObjects\Effect\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_HP_Boss.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Texture.h">
+      <Filter>02. GameObjects\Effect\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Distortion.h">
+      <Filter>02. GameObjects\Effect\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Fade.h">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Client.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainApp.cpp">
+      <Filter>00. MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Loading.cpp">
+      <Filter>01. Levels\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Loader.cpp">
+      <Filter>01. Levels\Loading\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Logo.cpp">
+      <Filter>01. Levels\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_GamePlay.cpp">
+      <Filter>01. Levels\GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\BackGround.cpp">
+      <Filter>02. GameObjects\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Terrain.cpp">
+      <Filter>02. GameObjects\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Camera_Free.cpp">
+      <Filter>02. GameObjects\Camera\Camera_Free</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Player.cpp">
+      <Filter>02. GameObjects\LandObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Monster.cpp">
+      <Filter>02. GameObjects\LandObject\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\StaticObject.cpp">
+      <Filter>02. GameObjects\StaticObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Boss.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LandObject.cpp">
+      <Filter>02. GameObjects\LandObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PartObject.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Body_Player.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Body_Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Weapon.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Camera_Attach.cpp">
+      <Filter>02. GameObjects\Camera\Camera_Attach</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Sky.cpp">
+      <Filter>02. GameObjects\Sky</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_FallDown.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Transform.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Attack.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_DeathKick.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Dodge.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_IDLE.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Jump.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_KillerSlash.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Run.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_HeavyAttack.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_DashAttack.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_PerfectDodge.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Armor_Missile.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Monster_TriplePut.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Guard.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Hit.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TriplePut_Invisible.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TriplePut_Idle.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TriplePut_Rush.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TriplePut_Spin.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TriplePut_Walk.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Monster_Leopardon.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_Idle.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_Occurrence.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LandObject_Leopardon_Teleport.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_SquareWall.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Projectile_Leopardon_Cube.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Projectile.cpp">
+      <Filter>02. GameObjects\Projectile</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_Warp.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_LaserBeam.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_BeamSword.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Projectile_Leopardon_Ring.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Weapon_Leopardon.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\PartObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_Hit.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_TriplePut_Hit.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\TriplePut\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Throw.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Leopardon_Ring.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Leopardon\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Village.cpp">
+      <Filter>01. Levels\Village</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Vehicle_Idle.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Vehicle_Run.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Vehicle_Turn.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Vehicle_Back.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Vehicle_Call.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Monster_Bone.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Bone</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Weapon_Bone.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\PartObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bone_Attack.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bone_Hit.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bone_Idle.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bone_Walk.cpp">
+      <Filter>02. GameObjects\LandObject\Monster\Bone\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Bike.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_Idle.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_Rect.cpp">
+      <Filter>02. GameObjects\Effect\Particle\Rect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_Point.cpp">
+      <Filter>02. GameObjects\Effect\Particle\Point</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_Run.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_Nitro.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_Turn.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MeshMap.cpp">
+      <Filter>02. GameObjects\StaticObject\MeshMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Trigger.cpp">
+      <Filter>02. GameObjects\StaticObject\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\NPC.cpp">
+      <Filter>02. GameObjects\LandObject\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Rising.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Appear.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Done</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Manager.cpp">
+      <Filter>02. GameObjects\UI\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_QuestBoard.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_Sit.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Sign.cpp">
+      <Filter>02. GameObjects\StaticObject\Sign</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Coin.cpp">
+      <Filter>02. GameObjects\StaticObject\Coin</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_MiniGame_Idle.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_MiniGame_Run.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Bike_MiniGame_Avoid.cpp">
+      <Filter>02. GameObjects\LandObject\Player\PartObject\Bike\State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\State_Vehicle_Jump.cpp">
+      <Filter>02. GameObjects\LandObject\Player\State\Vehicle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Camera_Manager.cpp">
+      <Filter>02. GameObjects\Camera\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Camera_Event.cpp">
+      <Filter>02. GameObjects\Camera\Camera_Event</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Teleport.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Coin.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_HP_Player.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_HP_Monster.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Target.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle.cpp">
+      <Filter>02. GameObjects\Effect\Particle\Attack</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Manager.cpp">
+      <Filter>02. GameObjects\Effect\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Trail.cpp">
+      <Filter>02. GameObjects\Effect\Trail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect.cpp">
+      <Filter>02. GameObjects\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\SwordTrail.cpp">
+      <Filter>02. GameObjects\Effect\Trail\SwordTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MotionTrail.cpp">
+      <Filter>02. GameObjects\Effect\Trail\MotionTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MeshTrail.cpp">
+      <Filter>02. GameObjects\Effect\Trail\MeshTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Slash.cpp">
+      <Filter>02. GameObjects\Effect\Texture\Slash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RushTrail.cpp">
+      <Filter>02. GameObjects\Effect\Trail\RushTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Sound_Manager.cpp">
+      <Filter>02. GameObjects\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Pillar.cpp">
+      <Filter>02. GameObjects\Effect\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_HP_Boss.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Texture.cpp">
+      <Filter>02. GameObjects\Effect\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Distortion.cpp">
+      <Filter>02. GameObjects\Effect\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Fade.cpp">
+      <Filter>02. GameObjects\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>98. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosTex.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxNorTex.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxMesh.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxAnimMesh.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxCube.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxRectInstance.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPointInstance.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxUIPointInstance.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosTexInstance.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_Trail.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosTexPoint.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_EffectTexture.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_EffectMesh.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

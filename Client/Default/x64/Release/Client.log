@@ -1,0 +1,358 @@
+﻿  BackGround.cpp
+  Bike.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Bike.cpp(107): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Bike.cpp(110): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Bike.cpp(116): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Body_Player.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Body_Player.cpp(27,49): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Body_Player.cpp(98): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Body_Player.cpp(101): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Body_Player.cpp(107): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Body_Player.cpp(120): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Body_Player.cpp(123): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Body_Player.cpp(129): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Camera_Attach.cpp
+  Camera_Free.cpp
+  LandObject.cpp
+  Level_GamePlay.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Level_Loading.cpp
+  Level_Logo.cpp
+  Level_Village.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Loader.cpp
+  MainApp.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\MainApp.cpp(248,46): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\MainApp.cpp(277,45): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MeshMap.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\MeshMap.cpp(45,17): warning C4101: 'vPickPoint' :참조되지 않은 지역 변수입니다.
+  Monster.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster.cpp(73): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster.cpp(76): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster.cpp(82): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster_Bone.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(124): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(127): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(133): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(148,13): warning C4101: 'vMonCenter' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(147,12): warning C4101: 'fMonRadius' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(148,98): warning C4101: 'vSlidePos' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(148,87): warning C4101: 'vSlideDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(148,58): warning C4101: 'vCollisionDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(147,39): warning C4101: 'fDistance' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(148,73): warning C4101: 'vSlideVector' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(148,25): warning C4101: 'vPlayerCenter' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(147,50): warning C4101: 'fMinDistance' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(147,24): warning C4101: 'fPlayerRadius' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Bone.cpp(148,40): warning C4101: 'vCollisionVector' :참조되지 않은 지역 변수입니다.
+  Monster_Leopardon.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(158): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(161): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(167): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(182,13): warning C4101: 'vMonCenter' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(181,12): warning C4101: 'fMonRadius' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(182,98): warning C4101: 'vSlidePos' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(182,87): warning C4101: 'vSlideDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(182,58): warning C4101: 'vCollisionDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(181,39): warning C4101: 'fDistance' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(182,73): warning C4101: 'vSlideVector' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(182,25): warning C4101: 'vPlayerCenter' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(181,50): warning C4101: 'fMinDistance' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(181,24): warning C4101: 'fPlayerRadius' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_Leopardon.cpp(182,40): warning C4101: 'vCollisionVector' :참조되지 않은 지역 변수입니다.
+  NPC.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\NPC.cpp(73): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\NPC.cpp(76): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\NPC.cpp(82): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Particle_Point.cpp
+  Particle_Rect.cpp
+  Projectile_Leopardon_Cube.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Projectile_Leopardon_Cube.cpp(91): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Projectile_Leopardon_Cube.cpp(94): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Projectile_Leopardon_Cube.cpp(100): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  LandObject_Leopardon_Teleport.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\LandObject_Leopardon_Teleport.cpp(69): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\LandObject_Leopardon_Teleport.cpp(75): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster_TriplePut.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(121): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(124): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(130): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(145,13): warning C4101: 'vMonCenter' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(144,12): warning C4101: 'fMonRadius' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(145,98): warning C4101: 'vSlidePos' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(145,87): warning C4101: 'vSlideDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(145,58): warning C4101: 'vCollisionDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(144,39): warning C4101: 'fDistance' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(145,73): warning C4101: 'vSlideVector' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(145,25): warning C4101: 'vPlayerCenter' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(144,50): warning C4101: 'fMinDistance' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(144,24): warning C4101: 'fPlayerRadius' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Monster_TriplePut.cpp(145,40): warning C4101: 'vCollisionVector' :참조되지 않은 지역 변수입니다.
+  PartObject.cpp
+  Player.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\State_Jump.h(42): warning C4305: '초기화 중': 'double'에서 'const Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(145,14): warning C4101: 'WorldMatrix' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(377,84): warning C4101: 'vSlideDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(377,55): warning C4101: 'vCollisionDir' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(377,70): warning C4101: 'vSlideVector' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(376,47): warning C4101: 'fMinDistance' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(377,37): warning C4101: 'vCollisionVector' :참조되지 않은 지역 변수입니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(923): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Player.cpp(923,38): warning C4309: '인수': 상수 값이 잘립니다.
+  Projectile.cpp
+  Projectile_Leopardon_Ring.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Projectile_Leopardon_Ring.cpp(145): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Projectile_Leopardon_Ring.cpp(151): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sign.cpp
+  Sky.cpp
+  State_Appear.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Appear.cpp(47,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Appear.cpp(180,115): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Armor_Missile.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Armor_Missile.cpp(49,165): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Armor_Missile.cpp(75,168): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Armor_Missile.cpp(88,168): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Armor_Missile.cpp(103,161): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Attack.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(57,112): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(227,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(260,81): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(265,81): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(270,81): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(275,81): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(375,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Attack.cpp(379,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  State_Bike_Idle.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Idle.cpp(55,107): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Bike_Nitro.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Nitro.cpp(78,109): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Bike_Run.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Run.cpp(31,108): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Run.cpp(40,109): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Run.cpp(76,107): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Bike_Sit.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(31,113): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(53,113): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(77,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(93,127): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(96,116): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(99,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(129,116): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bike_Sit.cpp(136,112): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Bone_Attack.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Attack.cpp(48,115): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Bone_Hit.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(47,130): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(50,76): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(65,122): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(68,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(102,114): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(128,109): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(140,110): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(154,110): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Hit.cpp(160,108): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Bone_Idle.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Idle.cpp(39,114): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Idle.cpp(59,112): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Idle.cpp(103,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Bone_Walk.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Walk.cpp(57,113): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Walk.cpp(64,112): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Bone_Walk.cpp(91,113): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_DashAttack.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_DashAttack.cpp(57,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  컴파일하고 있습니다...
+  State_DeathKick.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_DeathKick.cpp(43,115): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_DeathKick.cpp(75,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Dodge.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Dodge.cpp(69,111): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Dodge.cpp(154,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Dodge.cpp(158,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Dodge.cpp(181,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Guard.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(34,110): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(40,110): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(87,115): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(96,112): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(138): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(138,38): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(143): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(143,38): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(148): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(148,38): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(208,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(223,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(239,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(250,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(261,116): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(272,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(364,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(422,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(457,93): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Guard.cpp(462,93): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  State_HeavyAttack.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_HeavyAttack.cpp(53,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_HeavyAttack.cpp(189,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_HeavyAttack.cpp(205,86): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_HeavyAttack.cpp(210,86): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_HeavyAttack.cpp(309,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_HeavyAttack.cpp(313,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  State_Hit.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(42,130): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(45,76): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(61,119): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(64,119): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(100,105): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(207,109): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(300,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(304,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Hit.cpp(327,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_IDLE.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(30,111): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(74,110): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(129,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(154): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(154,39): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(159): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(159,39): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(164): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(164,39): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_IDLE.cpp(241,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Jump.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\State_Jump.h(42): warning C4305: '초기화 중': 'double'에서 'const Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(74): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(74,38): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(79): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(79,38): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(124,93): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(145,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(199,17): warning C4244: '초기화 중': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Jump.cpp(202,18): warning C4305: '=': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_KillerSlash.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_KillerSlash.cpp(64,112): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Leopardon_BeamSword.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_BeamSword.cpp(47,123): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Leopardon_Hit.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(47,130): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(50,76): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(65,127): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(68,127): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(102,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(137,109): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(160,109): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(168,110): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(184,109): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Hit.cpp(188,108): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Leopardon_Idle.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Idle.cpp(49,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Leopardon_LaserBeam.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_LaserBeam.cpp(52,123): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_LaserBeam.cpp(73,130): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_LaserBeam.cpp(90,129): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Leopardon_Occurrence.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Occurrence.cpp(48,124): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Leopardon_Ring.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Ring.cpp(40,124): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Ring.cpp(63,19): warning C4267: '인수': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  State_Leopardon_SquareWall.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_SquareWall.cpp(51,124): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Leopardon_Warp.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Public\Monster_Leopardon.h(40): warning C4267: 'return': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Warp.cpp(48,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Leopardon_Warp.cpp(88,124): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_PerfectDodge.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_PerfectDodge.cpp(62,99): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_PerfectDodge.cpp(161,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_PerfectDodge.cpp(181,125): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_PerfectDodge.cpp(192,124): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Rising.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Rising.cpp(30,116): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Rising.cpp(69,113): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Run.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(47,108): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(67): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(67,39): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(72): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(72,39): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(77): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(77,39): warning C4309: '인수': 상수 값이 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(190,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Run.cpp(198,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  State_Throw.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Throw.cpp(64,121): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  컴파일하고 있습니다...
+  State_Transform.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Transform.cpp(36,110): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Transform.cpp(58,115): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Transform.cpp(59,164): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Transform.cpp(146,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Transform.cpp(150,94): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  State_TriplePut_Hit.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Hit.cpp(47,130): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Hit.cpp(50,76): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Hit.cpp(65,123): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Hit.cpp(68,123): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Hit.cpp(102,115): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Hit.cpp(189,103): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_TriplePut_Idle.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Idle.cpp(40,113): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_TriplePut_Invisible.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Invisible.cpp(46,97): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Invisible.cpp(59,96): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Invisible.cpp(81,90): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_TriplePut_Rush.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Rush.cpp(38,114): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Rush.cpp(73,121): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Rush.cpp(82,121): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Rush.cpp(101,121): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_TriplePut_Spin.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Spin.cpp(40,114): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_TriplePut_Walk.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Walk.cpp(44,114): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Walk.cpp(88,117): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Walk.cpp(97,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Walk.cpp(100,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_TriplePut_Walk.cpp(105,115): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Vehicle_Idle.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Vehicle_Idle.cpp(105,119): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Vehicle_Idle.cpp(113,118): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Vehicle_Idle.cpp(131,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  State_Vehicle_Run.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Vehicle_Run.cpp(82,123): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\State_Vehicle_Run.cpp(97,120): warning C4305: '인수': 'double'에서 'Engine::_float'(으)로 잘립니다.
+  StaticObject.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\StaticObject.cpp(54): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\StaticObject.cpp(60): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Terrain.cpp
+  Trigger.cpp
+  UI.cpp
+  UI_Manager.cpp
+  UI_QuestBoard.cpp
+  Weapon.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Weapon.cpp(79): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Weapon.cpp(85): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Weapon_Bone.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Weapon_Bone.cpp(75): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Weapon_Bone.cpp(78): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Weapon_Bone.cpp(84): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Weapon_Leopardon.cpp
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Weapon_Leopardon.cpp(75): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Jusin\Project\NoMoreHeroes\Client\Private\Weapon_Leopardon.cpp(81): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Client.cpp
+  코드를 생성하고 있습니다.
+  709 of 4298 functions (16.5%) were compiled, the rest were copied from previous compilation.
+    362 functions were new in current compilation
+    781 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Client.vcxproj -> D:\Jusin\Project\NoMoreHeroes\Client\Bin\Client.exe
